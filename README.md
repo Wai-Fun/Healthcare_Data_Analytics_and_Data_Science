@@ -1,7 +1,7 @@
-# Healthcare Data Analytics
+# Healthcare Data Analytics and Data Science Portfolio
 
-This repository showcases my healthcare data analytics projects, where I apply data analysis techniques to explore and interpret healthcare-related datasets.
+This repository showcases my work in healthcare data analytics and data science, with a focus on extracting insights from real-world healthcare datasets.
 
-Through these projects, I practice SQL querying, data cleaning, and exploratory data analysis to generate meaningful insights that can support healthcare decision-making.
+My projects primarily center on data analytics techniques such as SQL querying, data cleaning, and exploratory data analysis (EDA) to uncover patterns and support data-driven decision-making in healthcare. In addition, I am expanding into data science methods, including predictive modeling and unsupervised learning, to deepen my analytical capabilities.
 
-This portfolio reflects my ongoing learning and interest in applying data analytics within the healthcare domain.
+This portfolio reflects my foundational experience in healthcare data analytics as well as my ongoing growth into broader data science applications.
